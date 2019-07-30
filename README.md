@@ -2,7 +2,7 @@
 This is a Jupyter Notebook for a demo that was presented to software engineering students at Kenzie Academy.
 
 ## Creator
-- Kash Farhadi
+Kash Farhadi
 
 
 ## About
