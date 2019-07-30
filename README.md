@@ -1,7 +1,7 @@
 # Lambda Expressions, Map and Filter Demo
 This is a Jupyter Notebook for a demo that was presented to software engineering students at Kenzie Academy.
 
-### Creator
+## Creator
 - Kash Farhadi
 
 
@@ -18,7 +18,7 @@ Well take a look at the pros and cons of each function and go over several examp
 
 Uses a Python 2 Jupyter kernel.
 
-### Running the Application
+## Running the Application
 
 Open the Jupyter Notebook Collab link directly in your browser -- does not require any installation. 
 
@@ -34,4 +34,4 @@ Use shift + enter to run each code block and see its output. Better understand t
 
 ### Built With:
 
-- [Jupyter Notebook](https://jupyter.org/) --  an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
+- [Jupyter Notebook](https://jupyter.org/) --  an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
